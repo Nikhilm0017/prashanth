@@ -1,0 +1,91 @@
+
+.main {
+    float: right;
+    margin-top: -63px;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style: none;
+    padding-right: 10px;
+}
+header{
+    background-color:   cadetblue;
+    height: 45px;
+}
+body{
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-decoration: none;
+    height: 90vh;
+    display: inline-block;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    color: rgb(26, 49, 71);
+}
+.visit{
+    background-color: white;
+    width: 800px;
+    
+}
+.mysore{
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.mysore a{
+    padding-bottom: 20px;
+}
+.mysore img{
+    width: 330px;
+    height: 250px;
+}
+.hampi{
+    background-color: white;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+
+}
+.hampi img{
+    width: 360px;
+    height: 250px;
+}
+.chik{
+    background-color: white;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+}
+.chik img{
+    width: 330px;
+    height: 250px;
+}
+.madekri{
+    background-color: white;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+}
+
+.madekri img{
+    width: 330px;
+    height: 250px;
+}
+.mangalore{
+    background-color: white;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 21px;
+}
+
+.mangalore img{
+    width: 330px;
+    height: 250px;
+}
+
+.map{
+    float: right;
+}
